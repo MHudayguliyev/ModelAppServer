@@ -1,0 +1,7 @@
+{
+    "SuccessMessage": "Successfully done",
+    "NoCategoryFound": "Категория не найдена",
+    "NoModelFound": "Модель не найдена",
+    "NoFileSelected": "Файл не выбран, загрузите файл!",
+    "SuccessfullyUpload": "Файлы успешно загружены!"
+}
